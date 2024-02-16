@@ -1,0 +1,15 @@
+
+
+
+.title{
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+    align-items: center;
+    gap: 10px;
+}
+.title::before, .title::after{
+    content:"";
+    height: 2px;
+    background-color: black;
+    display: block;
+}

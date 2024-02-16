@@ -1,0 +1,18 @@
+.products {
+    color: #061A2D ;
+    margin-top: 2%;
+    width: 100%;
+    border-top: solid 3px black;
+    border-bottom: solid 3px black;
+    margin-bottom: 80px;
+    font-size: small;
+    height: 60px;
+
+}
+
+
+.products h1 {
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
